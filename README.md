@@ -1,4 +1,4 @@
-#Interview Study Guide
+Interview Study Guide
 
 Checklist for interviews that covers many of the popular topics.
 
